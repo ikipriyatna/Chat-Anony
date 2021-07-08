@@ -71,7 +71,7 @@
 
 				width:70%;
 
-				padding:7px;
+				padding:10px;
 
 				border:none;
 
@@ -140,7 +140,7 @@
 
 				background-color:gray;
 
-				padding:5px;
+				padding:7px;
 
 }
 
