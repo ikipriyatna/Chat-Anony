@@ -26,7 +26,7 @@
 
 				right:0;
 
-				background-color:gray;	padding:14px;			
+				background-color:gray;	padding:8px;			
 
 }
 
@@ -69,9 +69,9 @@
 
 .wa{
 
-				width:60%;
+				width:70%;
 
-				padding:10px;
+				padding:7px;
 
 				border:none;
 
@@ -81,7 +81,7 @@
 
 				margin:auto;
 
-				display:block;
+				display:block; font-size:8px;
 
 }
 
