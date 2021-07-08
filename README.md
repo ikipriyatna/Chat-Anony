@@ -26,49 +26,32 @@
 
 				right:0;
 
-				background-color:gray;				
+				background-color:gray;	padding:14px;			
 
 }
 
 .span{
 
-				width:27px;
-
-				height:22px;
-
-				color:white;
-
 				background-color:gray;
-
-				margin-left:10px; 
-
+				width:27px;
+				height:4px;
+				opacity:;
+				margin-left:20px;
 				display:flex;
-
 				justify-content:space-between;
-
 				flex-direction:column;
-
-				margin-top:8px;
-
-				border:none;
+				margin-top:10px; margin-bottom:-30px;
 
 }
 
 .span span{
 
 				background-color:white;
-
+				color:red;
 				width:17px;
-
 				height:3px;
-
-				display:block;
-
-				margin-top:3px;
-
-				margin-top:4px;
-
-				margin-left:5px;
+				display:block;	
+				margin-left:-3px; margin-bottom:-30px;
 
 }
 
@@ -80,7 +63,7 @@
 
 	     color:white;
 
-				margin-top:-50px;
+				margin-top:-21px;
 
 }
 
