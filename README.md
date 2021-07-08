@@ -113,16 +113,19 @@
 
 }
 
-.inpo{
+.info{
 
 				width:70%;
 
-				font-size:9px;
+				
 
 				margin:auto;
 
 				display:block;
 
+}
+.inpo{ font-size:9px; 
+   text-align:center;
 }
 
 .bawah{
@@ -187,7 +190,7 @@
 
 				<div id="semua">
 
-				
+				<br> <br>
 
 				<div class="info" id="info">
 
@@ -195,7 +198,7 @@
 
 				</div>
 
-				<br><br><br><br>
+				<br><br>
 
 				
 
